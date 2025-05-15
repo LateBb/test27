@@ -1,0 +1,14 @@
+.row {
+    display: flex;
+    flex-direction: row;
+}
+figcaption {
+    text-align: center;
+    color: red;
+}
+#title {margin-bottom: 1em;}
+#serialNumber {width: 100%;
+    padding: 8px;
+    margin: 20px 0 20px 0;}
+.dm22009 {color: brown;}
+strong {color: brown;}
